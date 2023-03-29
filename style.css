@@ -1,0 +1,19 @@
+body{
+    background-color: pink; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, pink , violet);
+    color: #fff;
+}
+.title{
+    color: #fff;
+    text-shadow: 4px 3px 0px #7A7A7A;
+    font-size: 50px;
+}
+.container h2{
+    color: #fff;
+    font-weight: 300;
+}
+.bg-output{
+    background-color: #edc2fd87;
+    border-radius: 3%;
+    padding: 10px;
+}
