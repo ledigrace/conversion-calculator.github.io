@@ -17,3 +17,9 @@ body{
     border-radius: 3%;
     padding: 10px;
 }
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+}
